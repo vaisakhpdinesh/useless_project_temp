@@ -64,7 +64,7 @@ For Software:
 For Hardware:
 
 # Schematic & Circuit
-![Design top to bottom](<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />)
+![<img width="3188" height="1202" alt="frame (3)" src="ttob.jpg" />](top to bottom design)
 *Add caption explaining connections*
 
 ![<img width="3188" height="1202" alt="frame (3)" src="bottom to top.jpg" />](bottom to top design)
