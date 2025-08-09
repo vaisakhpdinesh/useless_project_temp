@@ -47,17 +47,17 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Home page]<img width="3188" height="1202" alt="frame (3)" src="Screenshot 2025-08-09 170631.png" />)
+![<img width="3188" height="1202" alt="frame (3)" src="Screenshot 2025-08-09 170631.png" />](Home page)
 *Add caption explaining what this shows*
 
-![Game page](<img width="3188" height="1202" alt="frame (3)" src="Screenshot 2025-08-09 170612.png" />)
+![<img width="3188" height="1202" alt="frame (3)" src="Screenshot 2025-08-09 170612.png" />](Game page)
 *Add caption explaining what this shows*
 
-![Prototype design](<img width="3188" height="1202" alt="frame (3)" src="future.jpg" />)
+![<img width="3188" height="1202" alt="frame (3)" src="future.jpg" />](prototype design)
 *Add caption explaining what this shows*
 
 # Diagrams
-![Wire frame](<img width="3188" height="1202" alt="frame (3)" src="wireframe.jpg" />)
+![<img width="3188" height="1202" alt="frame (3)" src="wireframe.jpg" />](wire frame)
 *Add caption explaining your workflow*
 
 
@@ -67,14 +67,14 @@ For Hardware:
 ![Design top to bottom](<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />)
 *Add caption explaining connections*
 
-![<img width="3188" height="1202" alt="frame (3)" src="bottom to top.jpg" />](bottom to top)
+![<img width="3188" height="1202" alt="frame (3)" src="bottom to top.jpg" />](bottom to top design)
 *Add caption explaining the schematic*
 
 # Build Photos
-![build 1](<img width="3188" height="1202" alt="frame (3)" src="WhatsApp Image 2025-08-09 at 17.44.48_dd116e2a.jpg" />)
+![<img width="3188" height="1202" alt="frame (3)" src="WhatsApp Image 2025-08-09 at 17.44.48_dd116e2a.jpg" />](build 1)
 *List out all components shown*
 
-![Build 2](<img width="3188" height="1202" alt="frame (3)" src="WhatsApp Image 2025-08-09 at 17.44.46_b0dd7b06.jpg" />)
+![<img width="3188" height="1202" alt="frame (3)" src="WhatsApp Image 2025-08-09 at 17.44.46_b0dd7b06.jpg" />](build 2)
 *Explain the build steps*
 
 ![Final](<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />)
@@ -86,7 +86,7 @@ For Hardware:
 *Explain what the video demonstrates*
 
 # Additional Demos
-[https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7"]
+(https://a360.co/4lgLj8f)
 
 ## Team Contributions
 - [Savanth S Joy]: [Handled all the 3D modelling ]
