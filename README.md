@@ -17,7 +17,7 @@
 ["Chatti korach valam itatte" combines an innovative gardening pot with a website helping to connect important notifications, communities and a fun filled game]
 
 ### The Problem (that doesn't exist)
-[ New Gen Gardners find it difficult to manage multiple plants and timely nutrition.They are also more concerned about interactive gardening games ]
+[ New Gen Gardners find it difficult to manage multiple plants and timely nutrition.They are also more concerned about interactive gardening games. ]
 
 ### The Solution (that nobody asked for)
 [We made a pot that allows to nurture deep pot soil and a subsidiary component to grow seeds and increase the volume of pot. An interactive website allows them to properly manage diverse plants and connet them with fellow farmers(during project expansion). the website has a game that can either grow or cut down a plant virtually with its 'sigma' and 'pookie mode']
