@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebSeed - Grow It</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body >
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">Grow It</a>
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="index.html" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="game.html" class="nav-link">Game</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="header">
+            <h1>Grow It</h1>
+            <p>21 plants, 3 communities</p>
+        </div>
+        
+        <div class="grid-container">
+            <div class="grid-item">
+                <h2>Water urgent</h2>
+                <p>Red hat</p>
+                <p>Tomato</p>
+            </div>
+            
+            <div class="grid-item">
+                <h2>Iron needed</h2>
+                <p>Ben 10</p>
+                <p>Mango</p>
+            </div>
+            
+            <div class="grid-item">
+                <h2>Good health</h2>
+                <p>Blue</p>
+                <p>Blue berry</p>
+            </div>
+        </div>
+        
+        <div class="add-button-container">
+            <button class="add-button">Add another</button>
+
+        </div>
+    </div>
+     <!-- Add Plant Modal -->
+     <div id="addPlantModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <h2>Add New Plant</h2>
+            <form id="plantForm">
+                <div class="form-group">
+                    <label for="plantName">Plant Name:</label>
+                    <input type="text" id="plantName" required>
+                </div>
+                <div class="form-group">
+                    <label for="plantType">Plant Type:</label>
+                    <select id="plantType" required>
+                        <option value="">Select a plant</option>
+                        <option value="Tomato">Tomato</option>
+                        <option value="Mango">Mango</option>
+                        <option value="Blueberry">Blueberry</option>
+                        <option value="Rose">Rose</option>
+                        <option value="Basil">Basil</option>
+                    </select>
+                </div>
+                <button type="submit" class="submit-btn">Add Plant</button>
+            </form>
+        </div>
+    </div>
+</div> 
+
+    <footer>
+        <p>Grow It © 2025</p>
+    </footer>
+
+
+<script src="script.js"></script>
+</body>
+</html>
