@@ -71,7 +71,7 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />)
+![Components](<img width="3188" height="1202" alt="frame (3)" src="WhatsApp Image 2025-08-09 at 17.44.48_dd116e2a.jpg" />)
 *List out all components shown*
 
 ![Build](<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />)
