@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plant Growing Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">Grow It</a>
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="index.html" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="game.html" class="nav-link">Game</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <center><div class="container">
+        <h1>Plant Growing Game</h1>
+        
+        <div class="mode-selector">
+            <button id="pookyMode" class="mode-btn active">Pooky Mode</button>
+            <button id="sigmaMode" class="mode-btn">Sigma Mode</button>
+        </div>
+        
+        <div class="plant-container">
+            <div id="plant">🌱</div>
+            <div class="progress-container">
+                <div id="progressBar" class="progress-bar"></div>
+            </div>
+            <p>Growth: <span id="growthPercentage">0</span>%</p>
+        </div>
+        
+        <button id="waterBtn" class="action-btn">💧 Water Plant</button>
+        
+        <div class="stats">
+            <p>Water Count: <span id="waterCount">0</span></p>
+            <p>Current Mode: <span id="currentMode">Pooky</span></p>
+        </div>
+    </div>>
+</center>
+
+    <script src="game.js"></script>
+</body>
+</html>
