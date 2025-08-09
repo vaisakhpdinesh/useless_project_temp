@@ -1,39 +1,39 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [ചട്ടീ കൊറച്ച് വളമിടട്ടേ ?] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [WEBSEED]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Savanth S Joy] - [College of Engineering Thalassery]
+- Member 2: [Vaisakh P Dinesh] - [College of Engineering Thalassery]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+["Chatti korach valam itatte" combines an innovative gardening pot with a website helping to connect important notifications, communities and a fun filled game]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[ New Gen Gardners find it difficult to manage multiple plants and timely nutrition.They are also more concerned about interactive gardening games ]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We made a pot that allows to nurture deep pot soil and a subsidiary component to grow seeds and increase the volume of pot. An interactive website allows them to properly manage diverse plants and connet them with fellow farmers(during project expansion). the website has a game that can either grow or cut down a plant virtually with its 'sigma' and 'pookie mode']
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [We used HTML,CSS and JAVASCRIPT for the software side.]
+- [Didnt used any frameworks.]
+- [Didnt used any Libraries]
+- [VS code ]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [3D MODELLING]
+- [Expandable flower pot]
+- [Used Fusion 360 software for creating the 3D model]
 
 ### Implementation
 For Software:
@@ -88,9 +88,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Savanth S Joy]: [Handled all the 3D modelling ]
+- [Vaisakh P Dinesh]: [Handled software development]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
